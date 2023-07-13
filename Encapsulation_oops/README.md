@@ -7,7 +7,7 @@
 -> You can hide internal state of object from outside. This is known as information hiding.
 
 **Access modifiers in Python :-**</br>
--> Access modifirers linit access to the variable and methods of a class
+-> Access modifirers linit access to the variable and methods of a class</br>
 -> Python provides **three types of access modifiers** </br>
         1) Public Member-</br>
             -> Accessible anywhere from the outside class.</br>
